@@ -17,6 +17,7 @@ LOCAL_APPS = [
     'mydjangodevops.core.apps.CoreConfig',
     'mydjangodevops.common.apps.CommonConfig',
     'mydjangodevops.users.apps.UsersConfig',
+    'mydjangodevops.blog.apps.BlogConfig',
     'mydjangodevops.authentication.apps.AuthenticationConfig',
 ]
 
